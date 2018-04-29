@@ -1,0 +1,13 @@
+{
+"companyName": "KaiC",
+"productName": "Ball Adventure",
+"dataUrl": "Unity_Ball-Adventure.data.unityweb",
+"asmCodeUrl": "Unity_Ball-Adventure.asm.code.unityweb",
+"asmMemoryUrl": "Unity_Ball-Adventure.asm.memory.unityweb",
+"asmFrameworkUrl": "Unity_Ball-Adventure.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
